@@ -1,0 +1,5 @@
+{
+  "name": "PSX Adaptive Neural Trader",
+  "description": "An interpretable hybrid deep learning framework for stock market prediction on the Pakistan Stock Exchange.",
+  "requestFramePermissions": []
+}
